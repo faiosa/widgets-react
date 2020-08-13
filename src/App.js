@@ -84,6 +84,9 @@ const App = () => {
             <Route path="/translate">
                 <Translate />
             </Route>
+            <Route path="/clicker">
+                <Clicker />
+            </Route>
         </div>
     );
 };
